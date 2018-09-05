@@ -1,0 +1,4 @@
+#Fri Jul 20 13:22:43 BRT 2018
+base.0=H\:\\Pos-Graduacao\\Projeto PhoneGap - Cordova\\PluginNetwork\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=H\:\\Pos-Graduacao\\Projeto PhoneGap - Cordova\\PluginNetwork\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
