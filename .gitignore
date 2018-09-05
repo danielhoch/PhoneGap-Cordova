@@ -1,0 +1,6 @@
+# Ignorar ao usar o Git, assim o projeto não fica tão pesado para baixar.
+# http://git-scm.com/docs/gitignore
+
+node_modules /
+plataformas /
+plugins /
